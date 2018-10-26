@@ -7,9 +7,9 @@ Using Module CTToolkit
 
 .AUTHOR Jakob Gottlieb Svendsen & Andreas Sobczyk , CTGlobal. http://www.ctglobalservices.com
 
-.COMPANYNAME CT Global
+.COMPANYNAME CTGlobal
 
-.COPYRIGHT CT GLobal
+.COPYRIGHT CTGLobal
 
 .TAGS 
 
